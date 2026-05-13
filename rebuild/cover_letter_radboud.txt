@@ -1,0 +1,16 @@
+Dear [Prof. X],
+
+I am writing to apply for the computational PhD position on gene expression noise regulation. I hold a BSc in Biology from Fudan University and am completing my MSc in Bioinformatics at the University of Amsterdam and Vrije Universiteit Amsterdam. My research has taken me from designing gene-regulatory elements to analysing protein-level variability — and this PhD represents the opportunity to study the stochastic processes that connect these two ends.
+
+My interest in gene expression regulation began during my major research project, where I applied generative deep learning models to design tissue-specific promoters and binding proteins for in vivo gene therapy. Working with sequence-to-function models on Snellius HPC, I gained first-hand experience with how regulatory sequences shape where and when genes are expressed. Yet these models optimise for average expression levels — they do not capture the cell-to-cell variability that makes identical promoters produce different outcomes in individual cells. This gap stayed with me.
+
+My current minor project brought me closer to the noise problem from the opposite direction. I am mining plasma proteomics data to identify confounding proteins that co-vary with Alzheimer's disease biomarkers under pre-analytical conditions. The core challenge is distinguishing genuine biological signal from systematic and stochastic variation in protein abundance — requiring careful statistical modelling and biological reasoning about protein origins. This work sharpened my ability to think quantitatively about variability at the molecular level, but within a framework limited to observational data. I became interested in approaches that could go further: not just measuring variation, but modelling the mechanisms that generate and regulate it.
+
+Your project offers exactly this. The prospect of integrating multiple sequencing modalities, proteomics and imaging data to quantify noise across different layers of gene expression is compelling — it demands the kind of multi-omics computational thinking that my training has prepared me for. I am particularly drawn to the goal of identifying molecular programmes that amplify or dampen noise, as this bridges the regulatory logic I explored through promoter design with the protein-level variability I encountered in proteomics. The collaboration with Prof. Burgering at UMCU adds a dimension I find exciting: connecting noise regulation to cell fate decisions in biologically and clinically meaningful contexts.
+
+I bring strong programming skills in Python and R, experience with high-performance computing, and a foundation in both machine learning and statistical analysis. Equally important, my dual training in biology and bioinformatics allows me to move between computational methods and biological interpretation — a capacity I believe is essential for the interdisciplinary nature of this project.
+
+I would be excited to join your team and contribute to uncovering how cells harness and suppress the noise that shapes their fate.
+
+Yours sincerely,
+[Your name]
